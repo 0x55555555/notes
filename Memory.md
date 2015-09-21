@@ -25,6 +25,9 @@ http://www.microsoft.com/en-us/download/details.aspx?id=39982
 #### WPR, WPA and xperf
 Lots of information at https://randomascii.wordpress.com/category/xperf/
 
+### Windows SDK
+https://msdn.microsoft.com/en-us/windows/desktop/bg162891.aspx
+
 #### gflags
 
 > Turn on memory access checking
