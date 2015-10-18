@@ -20,7 +20,7 @@ Debugs memory leaks on windows
 
 
 ### Windows Assessment and Deployment Kit (WPR/WPA/xperf/gflags)
-http://www.microsoft.com/en-us/download/details.aspx?id=39982
+Version 8.1: http://www.microsoft.com/en-us/download/details.aspx?id=39982
 
 #### WPR, WPA and xperf
 Lots of information at https://randomascii.wordpress.com/category/xperf/
